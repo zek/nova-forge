@@ -10,7 +10,7 @@
         "php": ">=7.1.0",
         "kregel/laravel-data-store": "^0.0.3",
         "laravel/nova": "*",
-        "phpunit/phpunit": "^7.4",
+        "phpunit/phpunit": "^8",
         "themsaid/forge-sdk": "^2.0"
     },
     "autoload": {
